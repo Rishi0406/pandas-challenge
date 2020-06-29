@@ -1,0 +1,5 @@
+Description of three observable trends based on the data:
+
+1. Maximum purchases are made by male players.
+2. The highest number of players are from age group of 19-24 years.
+3. 'Final Critic' is the most popular and profitable item.
